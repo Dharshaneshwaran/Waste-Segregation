@@ -93,7 +93,7 @@ void loop() {
 ### 3. Run the Python Script
 
 ```bash
-python main_gui.py
+python main.py
 ```
 
 * A GUI window opens with your webcam feed
